@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThompsonZachary
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making responsive websites.
 - 📫 How to reach me Thompsonzachary2@gmail.com
 
 <!---
